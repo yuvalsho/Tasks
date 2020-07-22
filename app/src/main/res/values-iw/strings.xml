@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_task_list">מטלות</string>
+    <string name="title_activity_settings">הגדרות</string>
+    <string name="first">ראשון</string>
+    <string name="second">שני</string>
+    <string name="third">שלישי</string>
+    <string name="fourth">רביעי</string>
+    <string name="fifth">חמישי</string>
+    <string name="sixth">שישי</string>
+    <string name="seventh">שבת</string>
+    <string name="contact">צור קשר</string>
+    <string name="slogan">ניהול משימות יעיל</string>
+    <string name="add">הוסף</string>
+    <string name="cancel">ביטול</string>
+    <string name="ok">אישור</string>
+    <string name="settings">הגדרות</string>
+    <string name="tasks">מטלות</string>
+    <string name="language">בחר שפה</string>
+    <string name="menu">תפריט</string>
+    <string name="title_activity_task_description">תיאור משימה</string>
+    <string name="language1">שפה</string>
+    <string name="subadding">הוספת תת משימה</string>
+    <string name="insert">הכנס משימה</string>
+    <string name="subinsert">הכנס תת משימה</string>
+    <string name="adding">הוספת משימה</string>
+    <string name="removed">המשימה הוסרה בהצלחה</string>
+    <string name="restore">שחזור</string>
+    <string name="mailBody">פנייה ב-Task</string>
+    <string name="subRemoved">תת המשימה הוסרה בהצלחה</string>
+    <string name="close">לחץ על חזור שנית כדי לצאת</string>
+    <string name="changeLang">בחר שפה</string>
+    <string name="subEdit">ערוך תת משימה</string>
+    <string name="taskEdit">שנה שם משימה</string>
+    <string name="edit">ערוך</string>
+    <string name="subEditing">עריכת תת משימה</string>
+    <string name="description">הוסף תיאור משימה</string>
+    <string name="enter">הכנס תיאור משימה כאן</string>
+</resources>
